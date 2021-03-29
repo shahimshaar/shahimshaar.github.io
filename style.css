@@ -3,6 +3,11 @@
     margin: 0;
     padding: 0;
   }
+html,
+body {
+  background-color:magenta;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 #app {
-    align-items: center;
+    text-align: center;
   }
