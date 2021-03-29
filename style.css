@@ -9,8 +9,8 @@ body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 #app {
-    width:1200px;
+    width: 1000px;
     text-align: center;
-    background-color:gray;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:magenta;
+    font-family: Verdana;
   }
