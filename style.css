@@ -1,6 +1,6 @@
 * {
     box-sizing: border-box;
-    margin: 20px;
+    margin: 15px;
     padding: 0;
   }
 html,
@@ -9,7 +9,7 @@ body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 #app {
-    width:1260px;
+    width:1200px;
     text-align: center;
     background-color:magenta;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
