@@ -1,2 +1,4 @@
-var app = new Vue({
-    el: '#app'})
+const app = Vue.createApp({
+})
+
+app.mount('#app')
