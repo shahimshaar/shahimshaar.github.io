@@ -1,5 +1,5 @@
 <template>
-  <div id="app">
+  <div id="specificity">
     <h1 style="text-align:center;color:yellow">Shahim Shaar<h1>
     <h2 style="text-align:center">Personal Website and Portfolio<h2>
     <img src="./src/assets/me.jpg"> 

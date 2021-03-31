@@ -1,6 +1,8 @@
 <template>
+  <div id="specificity">
   <h1>let's go</h1>
   <resume />
+  </div>
 </template>
 
 <script>
@@ -15,7 +17,7 @@ export default {
 </script>
 
 <style>
-#app {
+#specificity {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
