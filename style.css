@@ -1,7 +1,7 @@
 
 * {
   box-sizing: border-box;
-  margin: 15px;
+  margin: 30px;
   padding: 0;
 }
 html,
@@ -10,7 +10,7 @@ background-color:magenta;
 font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 #app {
-  width: 1000px;
+  width: %100;
   text-align: center;
   background-color:magenta;
   font-family: Verdana;
