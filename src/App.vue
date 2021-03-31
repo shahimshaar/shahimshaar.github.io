@@ -1,9 +1,12 @@
 <template>
+  <div class="container">
   <h1>let's go</h1>
+  <resume />
+  </div>
 </template>
 
 <script>
-import resume from './src/components/resume.vue'
+import resume from './resume.vue'
 
 export default {
   name: 'App',
@@ -14,7 +17,7 @@ export default {
 </script>
 
 <style>
-#specificity {
+#app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
