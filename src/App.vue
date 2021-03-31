@@ -1,6 +1,6 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <resume msg="Welcome to Your Vue.js App"/>
+  <h1>let's go</h1>
+  <resume />
 </template>
 
 <script>
@@ -10,9 +10,6 @@ export default {
   name: 'App',
   components: {
     resume
-  },
-  data(){
-    return 0
   }
 }
 </script>
