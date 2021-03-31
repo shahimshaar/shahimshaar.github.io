@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-        <h1 style="text-align:center;color:yellow">Shahim Shaar</h1>
+    <h1 style="text-align:center;color:yellow">Shahim Shaar</h1>
         <h2 style="text-align:center">Personal Website and Portfolio</h2>
         <img src="./assets/me.jpg"> 
         <p style="text-align:left;font-size:16px;color:navy"> Hello and welcome to my website! I am a 22-year-old Senior Computer Science major at Knox College. I am from Aleppo, Syria.</p>
@@ -27,11 +27,11 @@
         <b>Parallelized Conway's Game of Life</b> 
         <p style="text-align:left;font-size:14px"> Wrote this parallelized simulation of Conway's Game of Life in C (see <a href="https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life">Wikipedia</a> entry for more background on the game and its rules) using Pthreads for CS 309. The game starts with an initial grid that spawns depending on the inputted starting likelihood for each cell to be alive. With input for a full initial grid that is 4x4, we get the following game rounds outputted: </p>
         <img src="./assets/conway.jpg">
-        </div> 
+    </div> 
 </template>
 
 <script>
 export default {
-  name: 'resume'
+  name: 'resume',
 }
 </script>
