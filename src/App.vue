@@ -1,8 +1,5 @@
 <template>
-  <div id="specificity">
   <h1>let's go</h1>
-  <resume />
-  </div>
 </template>
 
 <script>
