@@ -1,6 +1,5 @@
 <template>
   <h1>let's go</h1>
-  <resume />
 </template>
 
 <script>
