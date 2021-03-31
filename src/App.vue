@@ -4,7 +4,7 @@
 </template>
 
 <script>
-import resume from './components/resume.vue'
+import resume from './src/components/resume.vue'
 
 export default {
   name: 'App',
