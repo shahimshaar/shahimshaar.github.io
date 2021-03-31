@@ -1,5 +1,7 @@
 <template>
   <div id="app">
+    <h1 style="text-align:center;color:yellow">Shahim Shaar</h1>
+    <h2 style="text-align:center">Personal Website and Portfolio</h2>
     <img src="./assets/me.jpg"> 
     <p style="text-align:left;font-size:16px;color:navy"> Hello and welcome to my website! I am a 22-year-old Senior Computer Science major at Knox College. I am from Aleppo, Syria.</p>
     <p style="text-align:left;font-size:14px"> I am pursuing a career in software engineering, web devlopment, and academic research.</p>
