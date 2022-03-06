@@ -1,0 +1,2 @@
+# This Repository contains all the code for my personal portfolio site, hosted on GitHub Pages
+## As of now, the site is built solely with plain HTML, CSS, and JavaScript (and some JQuery for animations)
