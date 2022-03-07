@@ -100,7 +100,7 @@ a.nav-link{
 }
 
 #home .filter{
-	background: '/assets/halab.jpg' no-repeat;
+	background: url(/assets/halab.jpg) no-repeat;
 	background-size: cover;
 	background-position:center;
     position: absolute;
