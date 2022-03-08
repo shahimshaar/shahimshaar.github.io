@@ -20,6 +20,17 @@ main{
 	height: 100%;
 	background: var(--main-background);
 }
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+  }
 
 /*────────────────── 
        header
@@ -100,7 +111,7 @@ a.nav-link{
 }
 
 #home .filter{
-	background: url(/assets/halab.jpg) no-repeat;
+	background: url(/assets/halab.jpg);
 	background-size: cover;
 	background-position:center;
     position: absolute;
