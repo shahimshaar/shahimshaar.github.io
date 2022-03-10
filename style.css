@@ -253,7 +253,7 @@ a.nav-link{
 #contact{
 	margin: auto;
 	padding-bottom: 20px;
-	height: 1000px;
+	height: auto;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
