@@ -1,17 +1,24 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+/*@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');*/
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+
 
 :root{
 	--main-background: #0b0c0f;
 	--main-fonts-color: #FFE08D;
-	--main-decor-color:#00a9e2;
+	--main-decor-color:#6F50B3;
     --main-header-background:#21252e;
-	--main-font-family: 'Poppins', sans-serif;
+	--main-font-family: 'Quicksand', sans-serif;
 }
 
 *{
 	margin: 0;
 	padding: 0;
 	scroll-behavior: smooth;
+}
+
+.images{
+	text-align: center;
 }
 
 main{
@@ -268,6 +275,14 @@ a.nav-link{
 	text-align:center;
 	font-size:1.2rem;
 	font-family: var(--main-font-family);
+}
+
+/*──────────────────
+      About Me
+──────────────────*/
+
+#aboutme {
+	text-align: left;
 }
 
 /*────────────────── 
