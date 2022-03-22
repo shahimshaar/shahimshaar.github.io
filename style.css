@@ -281,6 +281,36 @@ a.nav-link{
       About Me
 ──────────────────*/
 
+.aboutme {
+	text-align:left;
+    color: var(--main-fonts-color);
+	z-index: 1;
+	margin: auto;
+	padding: 20px;
+}
+
+.aboutme  p{
+    margin: 5px;
+	font-size:1.2rem;
+	font-family: var(--main-font-family);
+	text-align:center;
+}
+
+#aboutme {
+	text-align:left;
+    color: var(--main-fonts-color);
+	z-index: 1;
+	margin: auto;
+	padding: 20px;
+}
+
+#aboutme  p{
+    margin: 5px;
+	font-size:1.2rem;
+	font-family: var(--main-font-family);
+	text-align:center;
+}
+
 /*────────────────── 
        footer
 ──────────────────*/
