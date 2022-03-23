@@ -313,6 +313,18 @@ a.nav-link{
 	width: 60%;
 }
 
+.back-to-top {
+	position: fixed;
+	bottom: 30px;
+	right: 30px;
+	width: 64px;
+	height: 64px;
+	z-index: 9999;
+	cursor: pointer;
+	text-decoration: none;
+	transition: opacity 0.2s ease-out;
+	background-image: url(top.png);
+   }
 
 /*────────────────── 
        footer
