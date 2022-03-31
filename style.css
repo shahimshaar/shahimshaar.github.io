@@ -2,7 +2,11 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
 
-
+@media only screen and (max-width: 600px) {
+	.resumeimages {
+	  width: 400px;
+	}
+  }
 :root{
 	--main-background: #0b0c0f;
 	--main-fonts-color: #FFE08D;
@@ -19,6 +23,12 @@
 
 .images{
 	text-align: center;
+	width: 400px;
+}
+
+.resumeimages{
+	text-align: center;
+	width: 900px;
 }
 
 main{
